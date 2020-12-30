@@ -1,0 +1,1 @@
+echo "Open a new terminal for running the proxy"

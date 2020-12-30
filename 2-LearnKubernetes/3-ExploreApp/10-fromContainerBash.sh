@@ -1,0 +1,6 @@
+echo "Run the following commands"
+echo "From the container bash created previously"
+echo ""
+echo "cat server.js"
+echo "curl localhost:8080"
+echo "exit"

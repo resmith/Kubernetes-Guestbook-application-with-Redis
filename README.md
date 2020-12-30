@@ -4,8 +4,20 @@ Set of tutorials from the Kubernetes site.
 This repository collects the tutorials and structures them with the commands in a shell for easy execution. 
 
 ## Prerequisites
+
+### Kubectl
 1 - Minikube is installed. For instructions see below.
 minikube provides a kubernetes environment on your local machine.
+
+[minikube guide](https://github.com/kubernetes/minikube)
+
+[minikube docs](https://minikube.sigs.k8s.io/docs/start/)
+
+[minikube controls](https://minikube.sigs.k8s.io/docs/handbook/controls/)
+
+### Kubectl
+
+[Installation Guide](https://kubectl.docs.kubernetes.io/installation/kubectl/)
 
 ## How to follow along
 

@@ -1,0 +1,1 @@
+kubectl exec -ti $POD_NAME bash

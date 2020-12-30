@@ -10,7 +10,9 @@ minikube provides a kubernetes environment on your local machine.
 ## How to follow along
 
 1 - Repo this git repository
+
 2 - Cd into the directory
+
 3 - Start minikube
 
 ```

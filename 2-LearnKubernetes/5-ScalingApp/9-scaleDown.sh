@@ -1,0 +1,1 @@
+kubectl scale deployments/kubernetes-bootcamp --replicas=2

@@ -1,0 +1,1 @@
+kubectl expose deployment/kubernetes-bootcamp --type="NodePort" --port 8080

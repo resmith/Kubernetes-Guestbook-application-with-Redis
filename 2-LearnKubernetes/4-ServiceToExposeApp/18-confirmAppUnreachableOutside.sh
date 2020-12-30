@@ -1,0 +1,1 @@
+curl $(minikube ip):$NODE_PORT

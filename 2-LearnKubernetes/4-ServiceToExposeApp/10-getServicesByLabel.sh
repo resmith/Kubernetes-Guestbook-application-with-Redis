@@ -1,0 +1,1 @@
+kubectl get services -l app=kubernetes-bootcamp

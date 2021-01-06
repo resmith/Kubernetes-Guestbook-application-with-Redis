@@ -36,6 +36,9 @@ sh 0-minikubeStart.sh
 
 ## How to install MiniKube 
 
+See the: 
+[Minikube installation guide](https://minikube.sigs.k8s.io/docs/start/)
+
 ## The tutorials
 The tutorials are taken from the Kubernetes site and the commands are put into a shell scripts and numbered as a convenience to make it easy to follow along and execute the tutorials.
 
@@ -43,6 +46,12 @@ The tutorials are taken from the Kubernetes site and the commands are put into a
 This is one of the first tutorials on the Kubernetes site. Minikube allows the creation of Kubernetes on a local machine. The tutorial covers the basics of starting a kubernete deployment and service.
 
 [Minikube Hello Tutorial](https://kubernetes.io/docs/tutorials/hello-minikube/)
+
+
+### Learn Kubernetes
+The Learn Kubernetes guide covers the basics of Kubernetes administration including creating a cluster, deploying an app, scaling up and down and updating an app.
+
+[Kubernetes Learn Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/)
 
 ### Guestbook App
 The Guestbook App contains a Redis Master and Slave setup and a seperate front-end service.
